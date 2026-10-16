@@ -1,4 +1,4 @@
-<img width="1440" height="950" alt="01-assessor-signin" src="https://github.com/user-attachments/assets/583e1cc8-159d-4d06-936c-d3440cded53c" />
+
 # RPL Assessor — SIH26242 Walkthrough
 
 **An offline-first, AI-assisted Recognition of Prior Learning (RPL) tool for NSQF qualification packs.**
@@ -51,7 +51,7 @@ The qualification-pack content (ELE/Q0100, ELE/Q0101, …) is **illustrative** �
 
 ### 01 — Assessor sign-in
 
-![Assessor sign-in](screenshots/01-assessor-signin.png)
+<img width="1440" height="950" alt="01-assessor-signin" src="https://github.com/user-attachments/assets/583e1cc8-159d-4d06-936c-d3440cded53c" />
 
 **What you see:** a local on-device assessor profile — name, optional registration ID, State/UT and district. The banner states plainly this is a demonstration interface, not an official Government of India site.
 
