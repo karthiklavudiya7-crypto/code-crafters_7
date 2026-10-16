@@ -63,7 +63,7 @@ The qualification-pack content (ELE/Q0100, ELE/Q0101, …) is **illustrative** �
 
 ### 02 — Dashboard (worker registration)
 
-![Dashboard](screenshots/02-dashboard.png)
+<img width="1440" height="950" alt="02-dashboard" src="https://github.com/user-attachments/assets/99310886-cf6c-4c17-994f-7f45cc62e61b" />
 
 **What you see:** the home screen with live counters (**Assessments**, **Queued for sync**, **On server**, **Current result**), a "Register a worker" form, the current assessment, and a "Recent assessments" table.
 
@@ -75,9 +75,10 @@ The qualification-pack content (ELE/Q0100, ELE/Q0101, …) is **illustrative** �
 
 ### 03 — Self-declaration (guided interview)
 
-![Self-declaration — top](screenshots/03-self-declaration-top.png)
+<img width="1440" height="950" alt="03b-self-declaration-tools" src="https://github.com/user-attachments/assets/195c5258-955d-400d-ad41-94470953f195" />
 
-![Self-declaration — skills & tools](screenshots/03b-self-declaration-tools.png)
+<img width="1440" height="950" alt="03-self-declaration-top" src="https://github.com/user-attachments/assets/a08f3628-f1ca-4024-b418-711ee55bd4cd" />
+
 
 **What you see:** a structured interview covering *what kind* of electrical work, *how many years*, *how the skills were picked up*, the specific **tasks performed**, the **tools/instruments** used, any **prior certification**, and the **level of complexity** the worker handles.
 
@@ -89,10 +90,8 @@ The qualification-pack content (ELE/Q0100, ELE/Q0101, …) is **illustrative** �
 
 ### 04 — NSQF qualification-pack mapping
 
-![QP mapping — ranked list](screenshots/04-qp-mapping-top.png)
-
-![QP mapping — per-factor explanation](screenshots/04b-qp-mapping-card.png)
-
+<img width="1440" height="950" alt="04b-qp-mapping-card" src="https://github.com/user-attachments/assets/7d4b7b6b-a22f-4693-9cc6-25fff3330068" />
+<img width="1440" height="950" alt="04-qp-mapping-top" src="https://github.com/user-attachments/assets/f609b4a1-7ffa-4aff-999d-946ab3f61313" />
 **What you see:** an estimated NSQF level from the declaration (here **NSQF 4**) and a **ranked** list of candidate qualification packs with a match percentage — *Assistant Electrician* 93%, *Electrician (Domestic Installation & Maintenance)* 92% (`ELE/Q0101`, NSQF Level 3), then the panel and solar packs lower down. Each card expands to show *why*: scores for **skill coverage, tool & instrument alignment, experience fit** and **task complexity fit**, the skills evidenced, and the skills the pack expects that were **not declared** (the gaps).
 
 **How it happens:** the mapping engine scores the declared skill tags/tools/experience against each pack's profile and ranks them. The assessor confirms the correct pack — the tool *proposes*, it does not decide. Here the assessor selects **Electrician (Domestic Installation & Maintenance)**.
@@ -103,7 +102,9 @@ The qualification-pack content (ELE/Q0100, ELE/Q0101, …) is **illustrative** �
 
 ### 05 — Guided practical assessment
 
-![Practical tasks](screenshots/05-practical-tasks.png)
+<img width="1440" height="950" alt="05-practical-tasks" src="https://github.com/user-attachments/assets/0ff85222-c73e-4525-b415-56da30100c1f" />
+
+
 
 **What you see:** the selected pack split into **6 practical tasks across 4 NOS** — ELE/N0101 (safe working), N0102 (wiring & accessories), N0103 (fixtures & protective devices), N0104 (fault diagnosis). Each task has a plain-language instruction, the **preferred evidence type** (photo / video / measurement / direct observation), and an **assessor checklist of what good looks like**, with **critical** safety/workmanship items flagged.
 
@@ -115,7 +116,8 @@ The qualification-pack content (ELE/Q0100, ELE/Q0101, …) is **illustrative** �
 
 ### 06 — Evidence capture
 
-![Practical with evidence](screenshots/06-practical-evidence.png)
+<img width="1440" height="950" alt="06-practical-evidence" src="https://github.com/user-attachments/assets/681fd614-143c-4b33-be0c-ff8f9a2baaf9" />
+
 
 **What you see:** the same task list now showing **6 of 6 tasks have evidence** — photos for terminations, a video for the two-way circuit, instrument readings for the insulation and earth-continuity tests. (The images in this demo are generated placeholders standing in for real field photos.)
 
@@ -127,7 +129,7 @@ The qualification-pack content (ELE/Q0100, ELE/Q0101, …) is **illustrative** �
 
 ### 07 — Assessor scoring with assistive pre-score
 
-![Scoring interface](screenshots/07-scoring-assistive.png)
+<img width="1440" height="950" alt="07-scoring-assistive" src="https://github.com/user-attachments/assets/e553b880-b719-4301-9c4f-9b208fbb31e5" />
 
 **What you see:** **23 rubric criteria**, each anchored at **four levels (0–3)** with concrete descriptors (Not performed → Partially performed → Competent → Proficient), **CRITICAL** flags on safety/workmanship items, and a transparent **ASSISTIVE PRE-SCORE** (here level 2 · 45%) with a one-line rationale and a **Use suggestion** button. A running banner shows "0 / 23 criteria scored".
 
@@ -139,9 +141,11 @@ The qualification-pack content (ELE/Q0100, ELE/Q0101, …) is **illustrative** �
 
 ### 08 — Scoring complete
 
-![Scoring complete](screenshots/08-scoring-complete.png)
+<img width="1440" height="950" alt="08b-scoring-rubric" src="https://github.com/user-attachments/assets/cb1e6326-d1d5-49de-be60-cd46c2cc7d0a" />
 
-![A scored rubric criterion](screenshots/08b-scoring-rubric.png)
+
+<img width="1440" height="950" alt="08-scoring-complete" src="https://github.com/user-attachments/assets/a2cde257-ed3e-40e2-9e1c-79deeb5a94d7" />
+
 
 **What you see:** all **23 / 23 criteria scored**, running result **88%**, status **PROFICIENT**. The second image shows an individual criterion after scoring: the chosen level is selected and can still be changed.
 
@@ -153,7 +157,7 @@ The qualification-pack content (ELE/Q0100, ELE/Q0101, …) is **illustrative** �
 
 ### 09 — NSQF-aligned competency profile
 
-![Competency profile](screenshots/09-competency-profile-top.png)
+<img width="1440" height="950" alt="09-competency-profile-top" src="https://github.com/user-attachments/assets/785be139-0801-4364-a160-4dcb220c9133" />
 
 **What you see:** the profile for `ELE/Q0101` (NSQF Level 3): **PROFICIENT · 88% weighted · NOS passed 4/4 · evidence coverage 100% · open gaps 0**, a per-NOS table of scores and statuses, and a **certification recommendation** with rationale ("RECOMMEND FOR CERTIFICATION", tool confidence 97%, pass mark 70%) plus the **conditions before sign-off**.
 
@@ -165,7 +169,8 @@ The qualification-pack content (ELE/Q0100, ELE/Q0101, …) is **illustrative** �
 
 ### 10 — Assessor review and electronic sign-off
 
-![Profile signed off](screenshots/10-profile-signed.png)
+<img width="1440" height="950" alt="10-profile-signed" src="https://github.com/user-attachments/assets/8157aa7a-f821-4b29-b9ce-24ae2719b89e" />
+
 
 **What you see:** the **Assessor review & sign-off** block, with the assessor name, free-text **notes/overrides**, and the **Sign off assessment** button — followed by the confirmation *"Signed off by Anita Sharma on …"*.
 
@@ -177,7 +182,8 @@ The qualification-pack content (ELE/Q0100, ELE/Q0101, …) is **illustrative** �
 
 ### 11 — Inter-assessor agreement study
 
-![Consistency study](screenshots/11-consistency.png)
+<img width="1440" height="1609" alt="11-consistency" src="https://github.com/user-attachments/assets/3f0b4071-e728-40f8-acc9-c78d5a991353" />
+
 
 **What you see:** a **simulation** (clearly labelled) over 30 attempts and 115 rubric items with 5 assessors, comparing **unassisted** vs **tool-assisted** scoring:
 
@@ -198,7 +204,8 @@ The qualification-pack content (ELE/Q0100, ELE/Q0101, …) is **illustrative** �
 
 ### 12 — Offline capture & sync queue
 
-![Offline & sync](screenshots/12-offline-queue.png)
+<img width="1440" height="950" alt="12-offline-queue" src="https://github.com/user-attachments/assets/1da2d938-5b51-419a-bde8-b6259746aafa" />
+
 
 **What you see:** the sync console — local persistence via **IndexedDB**, **7 records queued for sync**, **0 on server**, last sync "never". Transport can be the built-in **simulated in-browser server** or a **real HTTP REST endpoint** (`PUT /assessments/:id`, `POST /evidence/:id`).
 
@@ -210,11 +217,12 @@ The qualification-pack content (ELE/Q0100, ELE/Q0101, …) is **illustrative** �
 
 ### 13 — Offline mode: the tool keeps working
 
-![Offline mode](screenshots/13-offline-mode.png)
+<img width="1440" height="950" alt="13b-offline-registration" src="https://github.com/user-attachments/assets/2be2d6d5-d32b-42ac-b50a-727fb22304ae" />
 
-![Registering a worker while offline](screenshots/13b-offline-registration.png)
+<img width="1440" height="950" alt="13c-offline-queue-grown" src="https://github.com/user-attachments/assets/506a7d04-a821-4392-8a39-26590af6930d" />
 
-![Queue grows while offline](screenshots/13c-offline-queue-grown.png)
+<img width="1440" height="950" alt="13-offline-mode" src="https://github.com/user-attachments/assets/696fa8d5-358f-4e59-b84b-19704793627d" />
+
 
 **What you see:** the app switches to **Offline**, and while disconnected a *second* worker (**Sunil Patil**) is registered and interviewed. The queue then grows to **8 records** — still **0 on server**.
 
@@ -226,7 +234,8 @@ The qualification-pack content (ELE/Q0100, ELE/Q0101, …) is **illustrative** �
 
 ### 14 — Reconnect and sync
 
-![After sync](screenshots/14-after-sync.png)
+<img width="1440" height="950" alt="14-after-sync" src="https://github.com/user-attachments/assets/9874c825-c528-4074-85f3-5e51e929b9d7" />
+
 
 **What you see:** after reconnecting and pressing **Sync now**, the queue drains to **0** and **8 records** are on the server, with a fresh **last sync** timestamp.
 
@@ -238,7 +247,7 @@ The qualification-pack content (ELE/Q0100, ELE/Q0101, …) is **illustrative** �
 
 ### 15 — Dashboard after the session
 
-![Final dashboard](screenshots/15-dashboard-final.png)
+<img width="1440" height="1885" alt="15-dashboard-final" src="https://github.com/user-attachments/assets/a3413cd9-496c-49d2-b2c3-b576e23feda9" />
 
 **What you see:** **2 assessments**, **0 queued**, **8 on server**, and the current result back on the completed worker — **88% · proficient**. The recent-assessments table lists both workers (Ramesh submitted, Sunil declared).
 
