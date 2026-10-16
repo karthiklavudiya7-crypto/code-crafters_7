@@ -1,3 +1,4 @@
+<img width="1440" height="950" alt="01-assessor-signin" src="https://github.com/user-attachments/assets/583e1cc8-159d-4d06-936c-d3440cded53c" />
 # RPL Assessor — SIH26242 Walkthrough
 
 **An offline-first, AI-assisted Recognition of Prior Learning (RPL) tool for NSQF qualification packs.**
